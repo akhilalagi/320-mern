@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/readersstop/static/css/main.8dc45c99.css",
-    "main.js": "/readersstop/static/js/main.087d4fcc.js",
-    "static/js/453.367fd9b5.chunk.js": "/readersstop/static/js/453.367fd9b5.chunk.js",
-    "index.html": "/readersstop/index.html",
-    "main.8dc45c99.css.map": "/readersstop/static/css/main.8dc45c99.css.map",
-    "main.087d4fcc.js.map": "/readersstop/static/js/main.087d4fcc.js.map",
-    "453.367fd9b5.chunk.js.map": "/readersstop/static/js/453.367fd9b5.chunk.js.map"
+    "main.css": "/320-mern/static/css/main.8dc45c99.css",
+    "main.js": "/320-mern/static/js/main.c26d1ace.js",
+    "static/js/453.367fd9b5.chunk.js": "/320-mern/static/js/453.367fd9b5.chunk.js",
+    "index.html": "/320-mern/index.html",
+    "main.8dc45c99.css.map": "/320-mern/static/css/main.8dc45c99.css.map",
+    "main.c26d1ace.js.map": "/320-mern/static/js/main.c26d1ace.js.map",
+    "453.367fd9b5.chunk.js.map": "/320-mern/static/js/453.367fd9b5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8dc45c99.css",
-    "static/js/main.087d4fcc.js"
+    "static/js/main.c26d1ace.js"
   ]
 }
